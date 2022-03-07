@@ -1,2 +1,2 @@
-# digapp-blog
-Blog for Digapp on PHP
+# php-blog
+Blog on PHP
